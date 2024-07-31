@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+}
+
+.container {
+    background: rgb(9, 15, 36);
+    max-width: 300px;
+    height: 300px;
+    padding: 30px;
+    margin-top: 150px;
+    margin-left: 450px;
+    justify-content: center;
+    border-radius: 7px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+    color: rgb(40, 223, 168);
+    margin-top: -23px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+p {
+    color: white;
+}
+
+button {
+    background: rgb(40, 223, 168);
+    color: white;
+    border-color: rgb(40, 223, 168);
+    border-radius: 5px;
+    padding: 7px;
+}
+
+hr {
+    margin-top: 25px;
+    color: #131c3f;
+}
+
+#show-passwords1 {
+    height: 20px;
+    width: 100px;
+    margin-top: 30px;
+    background: #141c3d;
+    color: rgb(40, 223, 168);
+    padding: 3px;
+    padding-left: 15px;
+    border-radius: 3px;
+}
+
+#show-passwords2 {
+    margin-left: 150px;
+    margin-top: -26px;
+    height: 20px;
+    width: 100px;
+    color: rgb(40, 223, 168);
+    background: #141c3d;
+    padding: 3px;
+    padding-left: 15px;
+    border-radius: 3px;
+}
